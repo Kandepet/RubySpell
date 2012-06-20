@@ -1,0 +1,1 @@
+A c++ ruby extension for spell checking and spelling suggestions. The implemented spell algorithm is based of a fast and easy levenshtein distance using a trie as described here: http://stevehanov.ca/blog/index.php?id=114
